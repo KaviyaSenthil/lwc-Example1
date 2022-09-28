@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/kaviyasenthil.lwc-l8k3df27-fork-l8k9e6nz",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve lVZyYvXOzUf44B5F4rp0 --open"
+  }
+}
